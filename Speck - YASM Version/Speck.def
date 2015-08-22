@@ -1,0 +1,3 @@
+LIBRARY Speck
+EXPORTS SpeckEncrypt
+EXPORTS SpeckDecrypt
